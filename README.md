@@ -1,2 +1,2 @@
 # DWEB
- Projeto da matéria de Desenvolvimento Web durante (ensino médio).
+ Projeto da matéria de Desenvolvimento Web (ensino médio).
